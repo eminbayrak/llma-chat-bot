@@ -1,4 +1,5 @@
-Certainly! Here's a README file for your code:
+
+![img](https://github.com/eminbayrak/llma-chat-bot/assets/32653645/2a578537-8981-4c4d-b55c-1fa788c21501)
 
 ---
 
