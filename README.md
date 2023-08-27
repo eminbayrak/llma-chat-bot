@@ -77,5 +77,3 @@ pip install -r requirements.txt
 - The `llama-2-7b-chat.ggmlv3.q8_0.bin` model weights should be downloaded from the provided link and placed in the project directory before running the app.
 
 ---
-
-Feel free to customize this README file to include any additional information or instructions that you find relevant.
